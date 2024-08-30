@@ -5,8 +5,8 @@ This project demonstrates how to scrape YouTube video information and download v
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/cizodevahm/YouTube-Video-Scraping.git
+    cd YouTube-Video-Scraping
     ```
 
 2. **Install dependencies**:
@@ -31,7 +31,7 @@ This project demonstrates how to scrape YouTube video information and download v
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## References
 
